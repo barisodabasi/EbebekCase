@@ -1,0 +1,6 @@
+framework module Pods_EbebekCase {
+  umbrella header "Pods-EbebekCase-umbrella.h"
+
+  export *
+  module * { export * }
+}
